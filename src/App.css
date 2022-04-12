@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.H1API {
+  font-size: 32px;
+  color: aliceblue;
+  text-align: center;
+  margin-top: 20px;
+
+
+}
+h1 {
+  color : #e63946;
+  margin-bottom: 20px;
+  font-size: xx-large ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +48,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background-color: #457b9d;
 }
